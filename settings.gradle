@@ -1,0 +1,3 @@
+rootProject.name='EzyTapExample'
+include ':app'
+include ':lib'
